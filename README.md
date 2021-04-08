@@ -1,10 +1,7 @@
-<<<<<<< HEAD
- # Inquirer_README-Generator
-        ## Table of Contents
-=======
+
 # README-Gen
 ## Table of Contents
->>>>>>> 5a811cb3e6088c0c6574ca388214934e5a76fc89
+
         
         1. [Description](#Description)
         2. [Installation](#Installation)
@@ -14,13 +11,9 @@
         6. [Questions](#Questions)
         7. [License](#License)
         8. [Questions](#Questions)
-<<<<<<< HEAD
-=======
         9. [Video](#Video)
->>>>>>> 5a811cb3e6088c0c6574ca388214934e5a76fc89
-        
-        
-        
+
+
         ## Description  
         
         Project Name: 
@@ -63,13 +56,8 @@
         ## Questions
 
         If you have any questions please contact me at:
-<<<<<<< HEAD
-        natermarshall@gmail.com 
-=======
         natermarshall@gmail.com 
         
         ##Video
         Here is the link to the video showcasing the generator:
         https://youtu.be/nh19Zc3ACYU
-        
->>>>>>> 5a811cb3e6088c0c6574ca388214934e5a76fc89
