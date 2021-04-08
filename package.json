@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A README Generator",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanielMar/README-Gen.git"
+  },
+  "author": "NathanielMar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanielMar/README-Gen/issues"
+  },
+  "homepage": "https://github.com/NathanielMar/README-Gen#readme"
+}
